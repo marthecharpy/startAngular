@@ -10,7 +10,7 @@ export class SignUpComponent implements OnInit {
   
   email: Email = {
 	id: 1,
-        name: 'mail à renseigner'
+        name: 'xx@gmail.com'
      };
 
   constructor() { }
